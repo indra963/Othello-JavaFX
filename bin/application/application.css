@@ -1,0 +1,120 @@
+.borderr {
+	-fx-border-color: "red";
+}
+
+/*style root */
+.root {
+    -fx-background-color: #292c33;
+}
+
+/* style of button */
+.btn {
+	-fx-background-radius: 0;
+	-fx-background-color: white;
+	-fx-padding: 3px;
+}
+
+.btn:hover {
+	-fx-background-radius: 0;
+	-fx-effect: dropshadow(gaussian, rgba(0, 0, 0, 0.04), 9.0, 0.0, 0.0, 22.5);
+	-fx-text-fill: white;
+	-fx-background-color: #292f45;
+	-fx-padding: 3px;
+}
+
+/* all labels */
+.label {
+	-fx-text-fill: white;
+	-fx-font-size: 20px;
+}
+
+
+/* shadow effect and gradient */
+.shadow {
+	-fx-effect: dropshadow(gaussian, rgba(0, 0, 0, 0.2), 40, 0.0, 0.0, 20);
+}
+
+.linear-grad-to-bottom {
+    -fx-background-color: linear-gradient(to bottom, #d3d3d3, transparent);
+}
+
+
+/* close options... */
+
+.btn-red {
+	-fx-background-radius: 5em;
+    -fx-min-width: 10px;
+    -fx-min-height: 10px;
+    -fx-max-width: 10px;
+    -fx-max-height: 10px;
+    -fx-background-color: #ff6057;
+}
+
+.btn-red:hover {
+    -fx-min-width: 10px;
+    -fx-min-height: 10px;
+    -fx-max-width: 10px;
+    -fx-max-height: 10px;
+    -fx-background-color: #bf4744;
+}
+
+.btn-yellow {
+	-fx-background-radius: 5em;
+    -fx-min-width: 10px;
+    -fx-min-height: 10px;
+    -fx-max-width: 10px;
+    -fx-max-height: 10px;
+    -fx-background-color: #ffbd2e;
+}
+
+.btn-yellow:hover {
+	-fx-background-radius: 5em;
+    -fx-min-width: 10px;
+    -fx-min-height: 10px;
+    -fx-max-width: 10px;
+    -fx-max-height: 10px;
+    -fx-background-color: #be8d2f;
+}
+
+.btn-green {
+	-fx-background-radius: 5em;
+    -fx-min-width: 10px;
+    -fx-min-height: 10px;
+    -fx-max-width: 10px;
+    -fx-max-height: 10px;
+    -fx-background-color: #28ca41;
+}
+
+.btn-green:hover {
+	-fx-background-radius: 5em;
+    -fx-min-width: 10px;
+    -fx-min-height: 10px;
+    -fx-max-width: 10px;
+    -fx-max-height: 10px;
+    -fx-background-color: #209a32;
+}
+
+/* menu styles */
+
+.menu .label {
+	-fx-text-fill: #9ea1b4;
+}
+
+.menu-item {
+	-fx-background-color: #21252c;
+}
+
+.menu-item:hover {
+	-fx-background-color: #353a42;
+}
+
+.menu-bar {
+	-fx-background-color: #21252c;
+	-fx-background-insets: 0,0;
+	-fx-background-radius: 0;
+}
+
+
+.menu-item .label{
+    -fx-text-fill: #9ea1b4;
+}

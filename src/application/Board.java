@@ -214,7 +214,7 @@ public class Board {
 		int score2 = score[1];
 
 		// declare and init a bonus for the AI
-		int bonus = 10;
+		int bonus = 5;
 		
 		// evaluate each corner and add to each player's score...
 		

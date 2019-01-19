@@ -1,4 +1,4 @@
-## Othello using Minimax and Alpha-Beta Pruning
+# Othello using Minimax and Alpha-Beta Pruning
 
 ### See:
 - https://en.wikipedia.org/wiki/Minimax#Pseudocode

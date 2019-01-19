@@ -1,1 +1,1 @@
-# Othello using Minimax and alpha-beta pruning
+# Othello using Minimax and Alpha-Beta Pruning

@@ -1,3 +1,6 @@
+Sample
+---
+
 Number of Black Pieces
 Numebr of White Pieces
 <grid> (Unoccupied = 0, WHITE = 1, BLACK = 2)

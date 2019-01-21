@@ -1,5 +1,4 @@
 Input Specification
----
 
 Number of Black Pieces
 Numebr of White Pieces

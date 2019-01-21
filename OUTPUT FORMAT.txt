@@ -1,4 +1,4 @@
-Sample
+Input Specification
 ---
 
 Number of Black Pieces
